@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 203c20417c82375459bbeef9b796c2c3, type: 3}
+  m_Name: ResourceDB
+  m_EditorClassIdentifier: 
+  Character:
+  - ID: 1
+    Name: "\uBCA0\uD504\uB9AC"
+    Title: "\uC544\uC774\uB3CC"
+  - ID: 2
+    Name: "\uB098\uBE44"
+    Title: "\uBBF8\uC2A4\uD130\uB9AC \uC18C\uB140"
+  Image:
+  - CharID: 1
+    ImgID: 1
+    Name: Vepley_Default
+  - CharID: 1
+    ImgID: 2
+    Name: Vepley_Sad
+  - CharID: 1
+    ImgID: 3
+    Name: Vepley_Shy
+  - CharID: 2
+    ImgID: 1
+    Name: Nabi_Default
+  - CharID: 2
+    ImgID: 2
+    Name: Nabi_Sad
+  - CharID: 2
+    ImgID: 3
+    Name: Nabi_Shy
