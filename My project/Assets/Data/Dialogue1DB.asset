@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 174ab0caefc403a438f8b68788184a2e, type: 3}
+  m_Name: Dialogue1DB
+  m_EditorClassIdentifier: 
+  Dialogue_Tutorial:
+  - ID: 1001
+    Character: 1
+    Face: 1
+    Dialogue: "\uC9C0\uD718\uAD00! \uBCA0\uD504\uB9AC \uACF5\uC5F0 \uC2DC\uC791\uD560\uAC8C~"
+    Dialogue_En: Hey commander! Vepley's show is about to begin!
+  - ID: 1002
+    Character: 2
+    Face: 1
+    Dialogue: "\uC65C \uC800\uB7EC\uB294\uAC70\uC57C\u2026 \uC9C4\uC9DC\u2026"
+    Dialogue_En: What is wrong with her?
+  - ID: 1003
+    Character: 1
+    Face: 2
+    Dialogue: "(\uB178\uB798\uC5D0 \uB9DE\uCDB0 \uD765\uC5BC\uAC70\uB9AC\uAE30 \uC2DC\uC791\uD588\uB2E4)"
+    Dialogue_En: (Vepley started to sing along the music)
+  - ID: 1004
+    Character: 2
+    Face: 2
+    Dialogue: "\uD6C4\uC6B0\u2026"
+    Dialogue_En: "Ha\u2026"
+  - ID: 1005
+    Character: 2
+    Face: 3
+    Dialogue: "\uC544\uBB34\uD2BC \uB10C \uBB50\uC57C? \uC9C0\uD718\u2026\uAD00\u2026?
+      \uADF8\uAC8C \uB124 \uC774\uB984\uC778\uAC70\uC57C?"
+    Dialogue_En: "So, who are you? Comman\u2026der? Is that your name?"
+  - ID: 1006
+    Character: 1
+    Face: 1
+    Dialogue: "\uBCA0\uD504\uB9AC \uAE30\uBCF8"
+    Dialogue_En: a
+  - ID: 1007
+    Character: 2
+    Face: 1
+    Dialogue: "\uB098\uBE44 \uAE30\uBCF8"
+    Dialogue_En: b
+  - ID: 1008
+    Character: 1
+    Face: 3
+    Dialogue: "\uBCA0\uD504\uB9AC \uBD80\uB044\uB7EC\uC6C0"
+    Dialogue_En: c
+  - ID: 1009
+    Character: 2
+    Face: 3
+    Dialogue: "\uB098\uBE44 \uBD80\uB044\uB7EC\uC6C0"
+    Dialogue_En: d
