@@ -71,7 +71,7 @@ public class StarRailLoading : MonoBehaviour
             img_BG[i].sprite = Resources.Load<Sprite>($"Img/StarRail/BG/{nowWold}"); // 배경 이미지 변경
         }
 
-        img_Pom.sprite = Resources.Load<Sprite>($"Img/StarRail/Pom/{nowWold}"); // 폼폼 이미지 변경
+        // img_Pom.sprite = Resources.Load<Sprite>($"Img/StarRail/Pom/{nowWold}"); // 폼폼 이미지 변경
         
         img_Icon.sprite = Resources.Load<Sprite>($"Img/StarRail/Icon/{nowData.Icon}");
 
